@@ -1,0 +1,15 @@
+D:\work_space\dotnet\asp_react\bookstore\bs_be.utility\bin\Debug\net7.0\bs_be.utility.deps.json
+D:\work_space\dotnet\asp_react\bookstore\bs_be.utility\bin\Debug\net7.0\bs_be.utility.dll
+D:\work_space\dotnet\asp_react\bookstore\bs_be.utility\bin\Debug\net7.0\bs_be.utility.pdb
+D:\work_space\dotnet\asp_react\bookstore\bs_be.utility\bin\Debug\net7.0\bs_be.models.dll
+D:\work_space\dotnet\asp_react\bookstore\bs_be.utility\bin\Debug\net7.0\bs_be.models.pdb
+D:\work_space\dotnet\asp_react\bookstore\bs_be.utility\obj\Debug\net7.0\bs_be.utility.csproj.AssemblyReference.cache
+D:\work_space\dotnet\asp_react\bookstore\bs_be.utility\obj\Debug\net7.0\bs_be.utility.GeneratedMSBuildEditorConfig.editorconfig
+D:\work_space\dotnet\asp_react\bookstore\bs_be.utility\obj\Debug\net7.0\bs_be.utility.AssemblyInfoInputs.cache
+D:\work_space\dotnet\asp_react\bookstore\bs_be.utility\obj\Debug\net7.0\bs_be.utility.AssemblyInfo.cs
+D:\work_space\dotnet\asp_react\bookstore\bs_be.utility\obj\Debug\net7.0\bs_be.utility.csproj.CoreCompileInputs.cache
+D:\work_space\dotnet\asp_react\bookstore\bs_be.utility\obj\Debug\net7.0\bs_be.ut.80000DB1.Up2Date
+D:\work_space\dotnet\asp_react\bookstore\bs_be.utility\obj\Debug\net7.0\bs_be.utility.dll
+D:\work_space\dotnet\asp_react\bookstore\bs_be.utility\obj\Debug\net7.0\refint\bs_be.utility.dll
+D:\work_space\dotnet\asp_react\bookstore\bs_be.utility\obj\Debug\net7.0\bs_be.utility.pdb
+D:\work_space\dotnet\asp_react\bookstore\bs_be.utility\obj\Debug\net7.0\ref\bs_be.utility.dll
